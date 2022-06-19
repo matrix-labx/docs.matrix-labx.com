@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_matrix_labx_com=self.webpackChunkdocs_matrix_labx_com||[]).push([[3662],{1930:function(o){o.exports=JSON.parse('{"permalink":"/docs.matrix-labx.com/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

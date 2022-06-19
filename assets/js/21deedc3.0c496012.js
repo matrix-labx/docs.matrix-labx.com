@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_matrix_labx_com=self.webpackChunkdocs_matrix_labx_com||[]).push([[5457],{1374:function(a){a.exports=JSON.parse('{"label":"docusaurus","permalink":"/docs.matrix-labx.com/blog/tags/docusaurus","allTagsPath":"/docs.matrix-labx.com/blog/tags","count":4}')}}]);

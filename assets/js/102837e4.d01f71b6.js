@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_matrix_labx_com=self.webpackChunkdocs_matrix_labx_com||[]).push([[6895],{1979:function(a){a.exports=JSON.parse('{"label":"facebook","permalink":"/docs.matrix-labx.com/blog/tags/facebook","allTagsPath":"/docs.matrix-labx.com/blog/tags","count":1}')}}]);
