@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Matrix - a fullstack framework for web & Serverless',
+  tagline: 'Fast and low overhead web framework, for Node.js',
   url: 'https://matrix-labx.github.io',
   baseUrl: '/docs.matrix-labx.com/',
   onBrokenLinks: 'throw',
@@ -60,7 +60,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Matrix',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -74,7 +74,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/matrix-labx/matrix',
             label: 'GitHub',
             position: 'right',
           },
@@ -118,12 +118,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/matrix-labx/matrix',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Matrix, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
